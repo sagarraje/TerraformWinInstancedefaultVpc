@@ -1,0 +1,6 @@
+aws_profile = "rijwan"
+aws_region = "us-west-1"
+dev_instance_type = "t2.micro"
+dev_ami = "ami-009ab160"
+key_name ="kryptonite"
+public_key_path = "/root/.ssh/kryptonite.pub"
